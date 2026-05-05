@@ -30,17 +30,17 @@
 
 ## 📓 Structure du projet
 
-ecommerce-pricing/
-├── notebooks/
-│   ├── 01_exploration.ipynb       # Exploration des données
-│   ├── 02_nettoyage.ipynb         # Nettoyage et préparation
-│   ├── 03_elasticite.ipynb        # Calcul élasticité prix
-│   ├── 04_optimisation.ipynb      # Optimisation des prix
-│   ├── 05_simulation_ab.ipynb     # Simulation A/B tests
-│   └── 06_modele_ameliore.ipynb   # Random Forest + score confiance
-├── outputs/                       # Graphiques et dashboard
-├── requirements.txt               # Dépendances Python
-└── README.md
+    ecommerce-pricing/
+    ├── notebooks/
+    │   ├── 01_exploration.ipynb       # Exploration des données
+    │   ├── 02_nettoyage.ipynb         # Nettoyage et préparation
+    │   ├── 03_elasticite.ipynb        # Calcul élasticité prix
+    │   ├── 04_optimisation.ipynb      # Optimisation des prix
+    │   ├── 05_simulation_ab.ipynb     # Simulation A/B tests
+    │   └── 06_modele_ameliore.ipynb   # Random Forest + score confiance
+    ├── outputs/                       # Graphiques et dashboard
+    ├── requirements.txt               # Dépendances Python
+    └── README.md
 
 ## 🎯 Méthodologie
 
