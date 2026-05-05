@@ -1,0 +1,54 @@
+categorie,opportunite,prix_actuel,prix_optimal,ca_actuel,ca_optimal,gain_rs,gain_pct
+Beauté & Santé,🟢 Opportunité,130.28,156.34,1233131.72,1476464.78,243333.06,19.73
+Montres & Cadeaux,🟢 Opportunité,199.04,238.85,1166176.98,1396331.65,230154.67,19.74
+Literie & Salle de bain,🟢 Opportunité,93.44,112.13,1023434.76,1223225.38,199790.62,19.52
+Sport & Loisirs,🟢 Opportunité,113.25,135.9,954852.55,1142793.83,187941.28,19.68
+Informatique,🟢 Opportunité,116.26,139.51,888724.61,1063230.39,174505.78,19.64
+Meubles & Décoration,🟢 Opportunité,87.25,104.7,711927.69,852301.48,140373.79,19.72
+Ustensiles Ménagers,🟢 Opportunité,90.6,108.72,615628.69,738161.33,122532.64,19.9
+Gadgets,🟢 Opportunité,164.12,196.94,610204.1,727697.88,117493.78,19.25
+Automobile,🟢 Opportunité,139.85,167.82,578966.65,693246.26,114279.61,19.74
+Jouets,🟢 Opportunité,116.94,140.33,471286.48,563372.83,92086.35,19.54
+Bébé,🟢 Opportunité,134.28,161.14,400421.84,479066.0,78644.16,19.64
+Parfumerie,🟢 Opportunité,116.81,140.17,390144.65,466395.39,76250.74,19.54
+Téléphonie,🟡 Prudence,69.95,83.94,309860.23,367317.55,57457.32,18.54
+Mobilier Bureau,🟢 Opportunité,160.76,192.91,268154.31,320618.8,52464.49,19.57
+Ordinateurs,🟢 Opportunité,1098.92,1318.7,218684.14,263366.81,44682.67,20.43
+Papeterie,🟢 Opportunité,90.75,108.9,223788.69,266345.29,42556.6,19.02
+Animalerie,🟢 Opportunité,110.03,132.04,211695.64,252970.3,41274.66,19.5
+Instruments de Musique,🟢 Opportunité,283.13,339.76,184315.74,221004.2,36688.46,19.91
+Appareils Portables,🟢 Opportunité,277.74,333.29,182754.12,218777.17,36023.05,19.71
+Électronique,🟢 Opportunité,56.81,68.17,155043.93,185632.08,30588.15,19.73
+Consoles & Jeux,🟢 Opportunité,135.91,163.09,148003.37,177358.53,29355.16,19.83
+Mode & Accessoires,🟢 Opportunité,75.23,90.28,149329.39,178050.98,28721.59,19.23
+Outils Construction,🟢 Opportunité,155.14,186.17,142108.49,170086.5,27978.01,19.69
+Valises & Accessoires,🟢 Opportunité,128.79,154.55,138701.63,166281.74,27580.11,19.88
+Électroménager 2,🟢 Opportunité,467.33,560.8,107953.95,129181.15,21227.2,19.66
+Électroménager,🟢 Opportunité,104.55,125.46,78832.48,94540.08,15707.6,19.93
+Construction Maison,🟢 Opportunité,136.59,163.91,81407.57,96849.04,15441.47,18.97
+Agriculture & Commerce,🟢 Opportunité,342.55,411.06,70566.1,84390.45,13824.35,19.59
+Mobilier Salon,🟡 Prudence,136.06,163.27,67350.7,79267.9,11917.2,17.69
+Téléphonie Fixe,🟢 Opportunité,216.92,260.3,55315.21,66390.79,11075.58,20.02
+Climatisation,🟢 Opportunité,184.51,221.41,53323.56,63450.56,10127.0,18.99
+Audio,🟡 Prudence,139.7,167.64,50570.6,59945.31,9374.71,18.54
+Mobilier Cuisine & Jardin,🟢 Opportunité,166.18,199.42,45531.98,54377.71,8845.73,19.43
+Livres Général,🟢 Opportunité,84.36,101.23,45302.15,54111.52,8809.37,19.45
+Construction & Sécurité,🟢 Opportunité,211.88,254.26,38773.22,46407.87,7634.65,19.69
+Industrie & Commerce,🟢 Opportunité,145.28,174.34,38498.81,46014.24,7515.43,19.52
+Éclairage Construction,🟡 Prudence,132.75,159.3,39957.0,47287.6,7330.6,18.35
+Alimentation,🟢 Opportunité,57.58,69.1,28731.15,34430.63,5699.48,19.84
+Marketplace,🟢 Opportunité,91.13,109.36,27795.77,33173.47,5377.7,19.35
+Outils Jardin,🟢 Opportunité,108.17,129.8,25096.28,30000.09,4903.81,19.54
+Arts,🟢 Opportunité,120.09,144.11,23657.3,28218.94,4561.64,19.28
+Boissons,🟢 Opportunité,59.64,71.57,21529.84,25670.7,4140.86,19.23
+Signalisation & Sécurité,🟢 Opportunité,108.2,129.84,21315.05,25440.36,4125.31,19.35
+Mobilier Chambre,🟢 Opportunité,184.97,221.96,19051.8,22738.83,3687.03,19.35
+Livres Techniques,🟢 Opportunité,71.11,85.33,18702.23,22370.5,3668.27,19.61
+Alimentation & Boissons,🟡 Prudence,55.55,66.66,14942.88,17727.12,2784.24,18.63
+Mode Homme,🟡 Prudence,83.62,100.34,10452.33,12362.38,1910.05,18.27
+Articles de Noël,🟢 Opportunité,58.25,69.9,8737.84,10453.54,1715.7,19.64
+Confort Maison,🔴 Risque,135.22,135.22,58008.45,58008.45,0.0,0.0
+Outils & Jardin,🔴 Risque,110.24,110.24,470495.28,470495.28,0.0,0.0
+Lingerie & Maillots,🔴 Risque,73.28,73.28,9305.95,9305.95,0.0,0.0
+Chaussures,🔴 Risque,89.5,89.5,23001.46,23001.46,0.0,0.0
+Outils & Bricolage,🔴 Risque,154.41,154.41,15903.95,15903.95,0.0,0.0
